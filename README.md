@@ -80,7 +80,6 @@ Detailed tutorial [Installation Guide](https://drive.google.com/file/d/1aPQdOk-N
 
 ## [Attendance Tracker Documentation](https://drive.google.com/file/d/1rz7N8xlutr-pbDitrxpo55koGYyt6_9A/view?usp=sharing)
 
-## [Video](https://youtu.be/gKh8em37Otg)
 
 <div align="center">
 
@@ -89,7 +88,3 @@ Detailed tutorial [Installation Guide](https://drive.google.com/file/d/1aPQdOk-N
 ![ezgif com-resize](https://github.com/SAMRIDHISINHA/AttendanceSystem_MicrosoftEngage-22/blob/main/DemoGIF.gif)
 
 </div>
-
-<h2 align="center">
-  Microsoft Engage Mentorship Program
-</h2>
