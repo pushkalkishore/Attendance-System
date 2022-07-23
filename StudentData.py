@@ -6,6 +6,7 @@ dict['Biden'] = "biden"
 dict['Satya'] = "satya"
 dict['Taylor'] = "taylor"
 dict['Narendra'] = "narendra"
+dict['pushkal'] = "pushkal"
 
 
 
