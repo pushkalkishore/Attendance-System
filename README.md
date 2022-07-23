@@ -85,6 +85,6 @@ Detailed tutorial [Installation Guide](https://drive.google.com/file/d/1aPQdOk-N
 
 ## Snapshots
 
-![ezgif com-resize](https://github.com/SAMRIDHISINHA/AttendanceSystem_MicrosoftEngage-22/blob/main/DemoGIF.gif)
+![ezgif com-resize](https://user-images.githubusercontent.com/86289322/180590053-5f1f40b1-eb33-4d73-9f3e-329e79278247.gif)
 
 </div>
